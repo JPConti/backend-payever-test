@@ -1,0 +1,10 @@
+{
+    "name": "ClusterPayEver",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "ClusterPayEver",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
